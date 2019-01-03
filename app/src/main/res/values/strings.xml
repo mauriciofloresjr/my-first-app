@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Number Madness</string>
+    <string name="startText">Welcome to Number Madness!</string>
+    <string name="startNumText">0</string>
+    <string name="btnResetText">Reset</string>
+    <string name="btnCount1Text">Up</string>
+    <string name="btnCount2Text">Down</string>
+    <string name="btnRandomText">Random</string>
+    <string name="btnBackText">Back</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+</resources>
